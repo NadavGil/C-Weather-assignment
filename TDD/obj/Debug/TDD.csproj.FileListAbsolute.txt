@@ -18,3 +18,14 @@ C:\Users\Daniel\Desktop\WeatherAssignment\TDD\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Daniel\Desktop\WeatherAssignment\TDD\obj\Debug\TDD.csprojResolveAssemblyReference.cache
 C:\Users\Daniel\Desktop\WeatherAssignment\TDD\obj\Debug\TDD.dll
 C:\Users\Daniel\Desktop\WeatherAssignment\TDD\obj\Debug\TDD.pdb
+C:\Users\Daniel\Documents\GitHub\OpenWeatherAPI\WeatherAssignment\C-Weather-assignment\TDD\obj\Debug\TDD.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\GitHub\OpenWeatherAPI\WeatherAssignment\C-Weather-assignment\TDD\obj\Debug\TDD.dll
+C:\Users\Daniel\Documents\GitHub\OpenWeatherAPI\WeatherAssignment\C-Weather-assignment\TDD\obj\Debug\TDD.pdb
+C:\Users\Daniel\Documents\GitHub\OpenWeatherAPI\WeatherAssignment\C-Weather-assignment\TDD\bin\Debug\TDD.dll
+C:\Users\Daniel\Documents\GitHub\OpenWeatherAPI\WeatherAssignment\C-Weather-assignment\TDD\bin\Debug\TDD.pdb
+C:\Users\Daniel\Documents\GitHub\OpenWeatherAPI\WeatherAssignment\C-Weather-assignment\TDD\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Daniel\Documents\GitHub\OpenWeatherAPI\WeatherAssignment\C-Weather-assignment\TDD\bin\Debug\WeatherAssignment.dll
+C:\Users\Daniel\Documents\GitHub\OpenWeatherAPI\WeatherAssignment\C-Weather-assignment\TDD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daniel\Documents\GitHub\OpenWeatherAPI\WeatherAssignment\C-Weather-assignment\TDD\bin\Debug\WeatherAssignment.pdb
+C:\Users\Daniel\Documents\GitHub\OpenWeatherAPI\WeatherAssignment\C-Weather-assignment\TDD\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Daniel\Documents\GitHub\OpenWeatherAPI\WeatherAssignment\C-Weather-assignment\TDD\bin\Debug\Newtonsoft.Json.xml

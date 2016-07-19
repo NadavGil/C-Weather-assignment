@@ -52,6 +52,7 @@
     <Compile Include="DataClasses\WeatherDataServiceException.cs" />
     <Compile Include="DataClasses\Wind.cs" />
     <Compile Include="IWeatherDataService.cs" />
+    <Compile Include="Location.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="WeatherDataService.cs" />
   </ItemGroup>

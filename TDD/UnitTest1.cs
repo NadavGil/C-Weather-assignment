@@ -12,7 +12,10 @@ namespace TDD
         {
             WeatherDataServiceFactory obj = WeatherDataServiceFactory.Instance;
 
-            CityWeather tmp = obj.GetWeatherDataService("London");                  //check if get worked
+            Location location = new Location();
+            location.city = "Tel-Aviv";
+
+            CityWeather tmp = obj.GetWeatherDataService(location);                  //check if get worked
             Assert.IsNotNull(tmp);
         }
 
@@ -20,7 +23,11 @@ namespace TDD
         public void Test2GetWeatherData()
         {
             WeatherDataServiceFactory obj = WeatherDataServiceFactory.Instance;
-            CityWeather tmp = obj.GetWeatherDataService("Lahore");                  //check if get worked
+
+            Location location = new Location();
+            location.city = "Barcelona";
+
+            CityWeather tmp = obj.GetWeatherDataService(location);                  //check if get worked
             Assert.IsNotNull(tmp);
         }
     }

@@ -19,3 +19,10 @@ C:\Users\Daniel\Desktop\WeatherAssignment\WeatherAssignment\bin\Debug\Newtonsoft
 C:\Users\Daniel\Desktop\WeatherAssignment\WeatherAssignment\obj\Debug\WeatherAssignment.csprojResolveAssemblyReference.cache
 C:\Users\Daniel\Desktop\WeatherAssignment\WeatherAssignment\obj\Debug\WeatherAssignment.dll
 C:\Users\Daniel\Desktop\WeatherAssignment\WeatherAssignment\obj\Debug\WeatherAssignment.pdb
+C:\Users\Daniel\Documents\GitHub\OpenWeatherAPI\WeatherAssignment\C-Weather-assignment\WeatherAssignment\bin\Debug\WeatherAssignment.dll
+C:\Users\Daniel\Documents\GitHub\OpenWeatherAPI\WeatherAssignment\C-Weather-assignment\WeatherAssignment\bin\Debug\WeatherAssignment.pdb
+C:\Users\Daniel\Documents\GitHub\OpenWeatherAPI\WeatherAssignment\C-Weather-assignment\WeatherAssignment\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daniel\Documents\GitHub\OpenWeatherAPI\WeatherAssignment\C-Weather-assignment\WeatherAssignment\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Daniel\Documents\GitHub\OpenWeatherAPI\WeatherAssignment\C-Weather-assignment\WeatherAssignment\obj\Debug\WeatherAssignment.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\GitHub\OpenWeatherAPI\WeatherAssignment\C-Weather-assignment\WeatherAssignment\obj\Debug\WeatherAssignment.dll
+C:\Users\Daniel\Documents\GitHub\OpenWeatherAPI\WeatherAssignment\C-Weather-assignment\WeatherAssignment\obj\Debug\WeatherAssignment.pdb

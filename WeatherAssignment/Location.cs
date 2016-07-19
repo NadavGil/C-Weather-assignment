@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace WeatherAssignment
 {
-    interface IWeatherDataService
+    public class Location
     {
-        CityWeather GetWeatherDataService(Location location);
-
+        public string city { get; set; }
     }
 }

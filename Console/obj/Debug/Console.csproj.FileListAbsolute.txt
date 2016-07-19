@@ -31,3 +31,13 @@ C:\Users\Daniel\Desktop\WeatherAssignment\Console\obj\Debug\Console.csprojResolv
 C:\Users\nadav.g\Downloads\WeatherAssignment\Console\bin\Debug\Console.exe.config
 C:\Users\nadav.g\Downloads\WeatherAssignment\Console\obj\Debug\Console.exe
 C:\Users\nadav.g\Downloads\WeatherAssignment\Console\obj\Debug\Console.pdb
+C:\Users\Daniel\Documents\GitHub\OpenWeatherAPI\WeatherAssignment\C-Weather-assignment\Console\bin\Debug\Console.exe.config
+C:\Users\Daniel\Documents\GitHub\OpenWeatherAPI\WeatherAssignment\C-Weather-assignment\Console\obj\Debug\Console.exe
+C:\Users\Daniel\Documents\GitHub\OpenWeatherAPI\WeatherAssignment\C-Weather-assignment\Console\obj\Debug\Console.pdb
+C:\Users\Daniel\Documents\GitHub\OpenWeatherAPI\WeatherAssignment\C-Weather-assignment\Console\bin\Debug\Console.exe
+C:\Users\Daniel\Documents\GitHub\OpenWeatherAPI\WeatherAssignment\C-Weather-assignment\Console\bin\Debug\Console.pdb
+C:\Users\Daniel\Documents\GitHub\OpenWeatherAPI\WeatherAssignment\C-Weather-assignment\Console\bin\Debug\WeatherAssignment.dll
+C:\Users\Daniel\Documents\GitHub\OpenWeatherAPI\WeatherAssignment\C-Weather-assignment\Console\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daniel\Documents\GitHub\OpenWeatherAPI\WeatherAssignment\C-Weather-assignment\Console\bin\Debug\WeatherAssignment.pdb
+C:\Users\Daniel\Documents\GitHub\OpenWeatherAPI\WeatherAssignment\C-Weather-assignment\Console\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Daniel\Documents\GitHub\OpenWeatherAPI\WeatherAssignment\C-Weather-assignment\Console\obj\Debug\Console.csprojResolveAssemblyReference.cache

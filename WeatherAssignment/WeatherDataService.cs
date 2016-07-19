@@ -31,14 +31,14 @@ namespace WeatherAssignment
             }
         }
 
-        public CityWeather GetWeatherDataService(string city)
+        public CityWeather GetWeatherDataService(Location location)
         {
 
             WebClient client = new WebClient();
 
             client.Encoding = System.Text.Encoding.UTF8;
 
-            string url = "http://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid=9a5691304ab424cb92980af75b143725";        //url with location & app id
+            string url = "http://api.openweathermap.org/data/2.5/weather?q=" + location.city + "&appid=9a5691304ab424cb92980af75b143725";        //url with location & app id
 
             string json;
 
