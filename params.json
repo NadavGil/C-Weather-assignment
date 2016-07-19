@@ -1,0 +1,6 @@
+{
+  "name": "C-weather-assignment",
+  "tagline": "Open Weather Map API C# program",
+  "body": "Welcome to Daniel & Nadav's Open Weather project.\r\n\r\nThe program was written as a final project at programming-languages course.\r\n\r\nHow to use the API:\r\nYou can set a new Location object and set it's city attribute to any city you like.\r\nInitiate a WeatherDataServiceFactory instance and then send to it's GetWeatherDataService method the Location object.\r\nThe API returns a parsed Json object and you can choose what output you want to print.\r\n\r\nExample:\r\n WeatherDataServiceFactory obj = WeatherDataServiceFactory.Instance;                    \r\n\r\n            Location location = new Location();                                                    \r\n            location.city = \"London\";\r\n\r\n            var tmp = obj.GetWeatherDataService(location);\r\n            System.Console.WriteLine(\"Country: \" + tmp.Sys.Country.ToString() + \"\\nCity: \" + tmp.Name.ToString() + \"\\nTempreture: \" + tmp.Main.Temp.ToString() + \" (Kelvin)\" + \"\\nWind Speed: \" + tmp.Wind.Speed.ToString() + \"\\nPressure: \" + tmp.Main.Pressure.ToString() + \" (Kelvin)\" + \"\\nHumidity: \" + tmp.Main.Humidity.ToString());\r\n            \r\n\r\nEnjoy.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
